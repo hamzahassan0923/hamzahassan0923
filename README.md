@@ -13,7 +13,7 @@ I build modern, scalable and user-friendly web applications that solve real-worl
 </p>
 
 <p align="center">
-<a href="https://github.com/hamza_hassan">
+<a href="https://github.com/hamzahassan0923">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
