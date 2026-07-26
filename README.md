@@ -26,6 +26,7 @@ I build modern, scalable and user-friendly web applications that solve real-worl
 </a>
 
 </p>
+<p>📞 <strong>Phone:</strong> <a href="tel:+8801402303203">+880 1402303203</a></p>
 
 ---
 
