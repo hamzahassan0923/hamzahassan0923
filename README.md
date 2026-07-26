@@ -190,10 +190,6 @@ Books Store is a modern online bookstore platform where users can explore books,
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzahassan0923&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzahassan0923&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=hamzahassan0923&theme=github-dark-blue&hide_border=true" />
@@ -203,9 +199,7 @@ Books Store is a modern online bookstore platform where users can explore books,
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamzahassan0923&theme=github-dark&hide_border=true&area=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzahassan0923&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
+
 
 # 📫 Contact
 
